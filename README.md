@@ -1,2 +1,2 @@
-# my-framework
+# simple-mvc-framework
 My own PHP framework, easy, simple and reliable to work with!
